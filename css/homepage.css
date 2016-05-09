@@ -1,0 +1,9 @@
+div.searchbar {
+    border: 1px solid black;
+}
+
+img.logo {
+    max-width: 50%;
+    height: auto;
+    display: block;
+}
